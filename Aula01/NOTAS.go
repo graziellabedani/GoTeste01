@@ -1,4 +1,3 @@
-
 //declarar variável local 
 var (
 	name string 
